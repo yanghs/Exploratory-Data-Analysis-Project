@@ -1,7 +1,7 @@
 Exploratory-Data-Analysis-Project
 =================================
 
-This is the project for the coursera course--Exploratory Data Analysis. The R scrips and the png files are answers to the following questions.
+This is the project for the coursera course--Exploratory Data Analysis. The R scripts and the png files are answers to the following questions.
 
 # Questions
 
